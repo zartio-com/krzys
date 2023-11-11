@@ -1,0 +1,6 @@
+{
+  "context": "<s>[INST] <<SYS>>\n{instructions}\n<</SYS>>\n\n",
+  "user_template": "{} [/INST] ",
+  "bot_template": "{}",
+  "user_bot_finish_turn": " </s><s> [INST] "
+}

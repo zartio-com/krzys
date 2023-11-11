@@ -1,0 +1,7 @@
+{
+  "temperature": 0.3,
+  "ban_eos_token": false,
+  "guidance_scale": 2,
+  "negative_prompt": "",
+  "stopping_strings": []
+}
